@@ -8,7 +8,7 @@ class Danny:
   employer : str = "Bloom & Wild"
   role : str = "Lead Data Scientist"
   location : str = "Edinburgh, Scotland"
-  languages : Tuple[str] = ("Python", "Golang")
+  languages : Tuple[str] = ("Python", "Rust")
   pronouns : Tuple[str] = ("He", "Him")
   website : str = "https://boland.dev"
   social : str = "https://linkedin.com/in/dannyboland"

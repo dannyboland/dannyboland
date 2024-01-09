@@ -5,8 +5,8 @@ from typing import Tuple
 @dataclass
 class Danny:
   name : str = "Danny Boland"
-  employer : str = "Bloom & Wild"
-  role : str = "Lead Data Scientist / Engineer"
+  employer : str = "Zoe"
+  role : str = "Lead Engineer"
   location : str = "Edinburgh, Scotland"
   languages : Tuple[str] = ("Python", "Rust")
   pronouns : Tuple[str] = ("He", "Him")

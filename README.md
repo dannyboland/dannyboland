@@ -6,7 +6,7 @@ from typing import Tuple
 class Danny:
   name : str = "Danny Boland"
   employer : str = "Zoe"
-  role : str = "Lead Engineer"
+  role : str = "Staff Engineer"
   location : str = "Edinburgh, Scotland"
   languages : Tuple[str] = ("Kotlin", "Python")
   pronouns : Tuple[str] = ("He", "Him")
